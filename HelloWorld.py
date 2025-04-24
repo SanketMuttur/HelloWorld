@@ -39,7 +39,7 @@ set_background("bg.png")
 
 text_display = st.empty()
 
-string = list("Hello, Nigga!")
+string = list("Hello, World!")
 newString = [" "]
 
 for i in string:
